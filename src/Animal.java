@@ -8,7 +8,6 @@ public class Animal {
         System.out.println("The animal moves");
     }
 
-
     public void eat(){
         System.out.println("what does the animal eat?");
     }
