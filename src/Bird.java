@@ -7,7 +7,7 @@ public class Bird extends Animal {
 
     @Override
     public void move(){
-        System.out.println("flying");
+        System.out.println("Flying");
     }
     @Override
     public void eat(){
